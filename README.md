@@ -5,7 +5,7 @@ network models to classify Fashion-MNIST data.
 
 This Dockerfile simply clones a Github repository which has the code. 
 
-See also **cnn2_model_out** folder for the output of the best naural network model I got so far (Image augmentation + CNN with dropout). You can reproduce the results through the code. After applying the couple of steps below, you see **code repository's Readme** for more details about the code.
+See also **cnn2_model_out** folder for the output of the best naural network model I got so far (Image augmentation + CNN with dropout). You can reproduce the results through the code. After applying the couple of steps below, you can see **code repository's Readme** for more details about the code.
 
 Follow the steps below to run the app:
 
